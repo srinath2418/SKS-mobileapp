@@ -1,0 +1,23 @@
+{
+    "name": "Siva Kundalini Sadhana",
+    "short_name": "SKS App",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#4B0082",
+    "theme_color": "#6A0DAD",
+    "description": "Spiritual mobile application for Kundalini Sadhana",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
